@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+RecoVenv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Jupyter runtime
+~$*
+
+# Dataset or large data directories
+Movie-Dataset/
+
+# VS Code settings
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Environment files
+*.env
